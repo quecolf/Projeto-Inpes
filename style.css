@@ -1,0 +1,37 @@
+.navbar-chocolate{
+    background-color: chocolate;
+    color: #ffff;
+}
+.nomeinput {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+
+}
+.formulario {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30vw;
+    align-self: center;
+}
+img {
+    width: 10vw;
+}
+.botao {
+    background-color: chocolate;
+    border-style: none;
+    color: #ffff;
+    width: 100%;
+}
+.botao:hover{
+    background-color: #d6732ded;
+}
+.field-radiobox {
+    margin-top:1rem;
+    margin-bottom: 1rem;
+}
